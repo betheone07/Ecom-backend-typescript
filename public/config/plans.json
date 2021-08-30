@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Plan A (5-Year)",
+        "price": 200,
+        "type": "Basic",
+        "desc": "Great affordable coverage",
+        "benefits": [
+            {
+                "desc": "Coverage period of 5 years"
+            },
+            {
+                "desc": "Death benefit up to THB 100,000"
+            }
+        ],
+        "button": "Select Plan"
+    },
+    {
+        "name": "Plan B (10-Year)",
+        "price": 300,
+        "type": "Advanced",
+        "desc": "Extensive coverage",
+        "benefits": [
+            {
+                "desc": "Coverage period of 10 years"
+            },
+            {
+                "desc": "Death benefit up to THB 100,000"
+            }
+        ],
+        "button": "Select Plan"
+    }
+]
